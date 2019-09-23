@@ -137,3 +137,27 @@ table {
 
 /* css code */
 
+.wrapper {
+    display: flex;
+    flex-wrap:wrap;
+    flex-direction:column;
+    min-height:100vh;
+    width: 70%;
+    margin: 0 auto;
+    border: 2px solid red;
+}
+
+header {
+    flex:15;
+    border: 2px solid red;
+}
+
+main {
+    flex:4;
+    border: 2px solid red;
+}
+
+footer {
+    flex:1;
+    border: 2px solid red;
+}
