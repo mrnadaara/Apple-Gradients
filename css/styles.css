@@ -194,7 +194,7 @@ nav > ul :last-child {
   padding-right: 5px;
 }
 
-header div {
+header a {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
