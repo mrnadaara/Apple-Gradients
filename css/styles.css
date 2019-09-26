@@ -241,6 +241,10 @@ label {
   width: 25%;
 }
 
+.products > img {
+  width: 100%;
+}
+
 footer {
   flex: 1 100px;
   display: flex;
